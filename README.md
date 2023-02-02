@@ -1,5 +1,5 @@
 # djangoer
-A production-ready template for Django applications.
+A production-ready template for Django applications
 
 ## Introduction
 This Django template was created out of a need for consistent structure for projects with a setup that's easy to understand and use with as minimal additional setup as possible.
@@ -63,5 +63,5 @@ Raise an issue.
 2.
     Q: Why do you use `master` as the default branch?
 
-    A: To make the codebase look older and more matured than it actually is
-    Don't lie, you respect `master` more than `main` (what those NodeJS children love)
+    A: To make the codebase look older and more matured than it actually is.
+    Don't lie, you respect `master` more than `main` (what those NodeJS children love).
