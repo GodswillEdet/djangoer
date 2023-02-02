@@ -63,5 +63,5 @@ Raise an issue.
 2.
     Q: Why do you use `master` as the default branch?
 
-    A: To make the codebase look older and more matured than it actually is.
+    A: To make the codebase look older and more matured than it actually is
     Don't lie, you respect `master` more than `main` (what those NodeJS children love).
